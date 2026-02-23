@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="aslogo" width="350"/>
+  <img src="./full-logo.svg" height='60'/>
   <br/>
   Unleash your creativity, software shapes the future.
 </p>
