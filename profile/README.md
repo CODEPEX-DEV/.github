@@ -17,4 +17,4 @@
 
 # Get in touch whit us
 - E-Mail: [support@codepex.top](mailto://support@codepex.top)
-- Discord: 
+- Discord: [https://discord.gg/y9rTtvUzsB](https://discord.gg/y9rTtvUzsB)
