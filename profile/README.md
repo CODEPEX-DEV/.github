@@ -15,6 +15,6 @@
 - Simple SSH
 - Stars AI Co-pilot
 
-# Get in touch whit us
+# Get in touch with us
 - E-Mail: [support@codepex.top](mailto://support@codepex.top)
 - Discord: [https://discord.gg/y9rTtvUzsB](https://discord.gg/y9rTtvUzsB)
