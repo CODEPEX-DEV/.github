@@ -4,4 +4,17 @@
   From the source of an idea to the summit of execution.
 </p>
 
-Hi there, we're gong tp build this page in future, thanks!
+> Please note, this is not CodePlex
+
+# Websites
+- Homepage: [https://codepex.top](https://codepex.top)
+- Docs: [https://docs.codepex.top](https://docs.codepex.top)
+
+# Projects
+- S-AI Music
+- Simple SSH
+- Stars AI Co-pilot
+
+# Get in touch whit us
+- E-Mail: [support@codepex.top](mailto://support@codepex.top)
+- Discord: 
